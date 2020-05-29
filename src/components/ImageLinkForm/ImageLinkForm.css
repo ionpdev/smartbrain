@@ -1,0 +1,6 @@
+.form {
+    width: 700px;
+    background-image: linear-gradient(to right, #808080 0%, #3fada8 51%, #808080 100%);
+    
+}
+.form:hover { background-position: right center; }
